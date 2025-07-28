@@ -1,3 +1,4 @@
+# Ignore this, I have this repo public but I haven't had time to work on it since I opened it, but I don't wanna private the repo in case I make a commit.
 # Decky Shader
 ## An (ideally) ReShade compatible plugin for the Decky plugin loader
 <sub><sup>Note: This is *not* a complete project<sup><sub>
